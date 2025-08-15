@@ -1,4 +1,4 @@
 # git_corse
 ## osama
 
-## project nots
+# project nots
